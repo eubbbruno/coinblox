@@ -1,0 +1,30 @@
+{
+    "Header": {
+      "dashboard": "Dashboard",
+      "spot": "Spot",
+      "futures": "Futures"
+    },
+    "Home": {
+      "welcome": "Welcome to",
+      "heroSubtitle": "Trade cryptocurrencies with ease on our decentralized exchange",
+      "startTrading": "Start Trading"
+    },
+    "Footer": {
+      "allRightsReserved": "All rights reserved"
+    },
+    "Dashboard": {
+      "tradingDashboard": "Trading Dashboard",
+      "priceChart": "Price Chart",
+      "tradingViewChart": "TradingView Chart",
+      "orderBook": "Order Book",
+      "currentPrice": "Current Price",
+      "buy": "Buy",
+      "sell": "Sell"
+    },
+    "Wallet": {
+      "wallet": "Wallet",
+      "walletConnected": "Wallet Connected",
+      "balance": "Balance",
+      "connectWallet": "Connect Wallet"
+    }
+  }

@@ -1,0 +1,30 @@
+{
+    "Header": {
+      "dashboard": "Painel",
+      "spot": "Spot",
+      "futures": "Futuros"
+    },
+    "Home": {
+      "welcome": "Bem-vindo ao",
+      "heroSubtitle": "Negocie criptomoedas com facilidade em nossa exchange descentralizada",
+      "startTrading": "Começar a Negociar"
+    },
+    "Footer": {
+      "allRightsReserved": "Todos os direitos reservados"
+    },
+    "Dashboard": {
+      "tradingDashboard": "Painel de Negociação",
+      "priceChart": "Gráfico de Preços",
+      "tradingViewChart": "Gráfico TradingView",
+      "orderBook": "Livro de Ordens",
+      "currentPrice": "Preço Atual",
+      "buy": "Comprar",
+      "sell": "Vender"
+    },
+    "Wallet": {
+      "wallet": "Carteira",
+      "walletConnected": "Carteira Conectada",
+      "balance": "Saldo",
+      "connectWallet": "Conectar Carteira"
+    }
+  }
